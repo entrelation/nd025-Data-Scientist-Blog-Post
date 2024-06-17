@@ -33,7 +33,7 @@ Variable | Definition
 `subject_sex` | Sex of subject.
 `lead_actor_actress` | The actor or actress who played the subject.
 
-`biopics_with_ratings.csv` contains the same data as `biopics.csv` with the addition of movie rating.
+`biopics_with_ratings.xlsx` contains the same data as `biopics.csv` with the addition of movie rating.
 
 Variable | Definition
 ---|---------
